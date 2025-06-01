@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output logs and match file
+wallet-info.txt
+
+# Virtual environments
+venv/
+.env/
+.envrc
+.venv/
+
+# pipenv
+Pipfile.lock
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Compiled C extensions
+*.so
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
