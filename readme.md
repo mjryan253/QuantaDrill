@@ -1,7 +1,6 @@
+# QuantaDrill
 
-# 🔐 Crypto Wallet Scanner
-
-This Python script performs high-speed generation and analysis of cryptocurrency wallet keys and addresses to check for matches against a provided database.
+**QuantaDrill** is a high-performance Python tool designed to rapidly generate and analyze elliptic curve key pairs and addresses to detect matches against a local dataset. It is optimized for CPU-bound workloads, ideal for cryptographic research and security analysis.
 
 ## 📦 Requirements
 
